@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "edu.mx.unipolidgo.myfirebaseproject.app-mergeDebugResources-33:/layout/activity_login.xml",
+        "source": "edu.mx.unipolidgo.myfirebaseproject.app-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "edu.mx.unipolidgo.myfirebaseproject.app-mergeDebugResources-33:/layout/activity_view_menu.xml",
+        "source": "edu.mx.unipolidgo.myfirebaseproject.app-main-36:/layout/activity_view_menu.xml"
+    },
+    {
+        "merged": "edu.mx.unipolidgo.myfirebaseproject.app-mergeDebugResources-33:/layout/item_menu.xml",
+        "source": "edu.mx.unipolidgo.myfirebaseproject.app-main-36:/layout/item_menu.xml"
+    },
+    {
+        "merged": "edu.mx.unipolidgo.myfirebaseproject.app-mergeDebugResources-33:/layout/activity_data.xml",
+        "source": "edu.mx.unipolidgo.myfirebaseproject.app-main-36:/layout/activity_data.xml"
+    },
+    {
+        "merged": "edu.mx.unipolidgo.myfirebaseproject.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "edu.mx.unipolidgo.myfirebaseproject.app-main-36:/layout/activity_main.xml"
+    }
+]
